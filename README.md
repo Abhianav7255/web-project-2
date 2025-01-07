@@ -105,12 +105,10 @@ project-directory
 ---
 
 ## Screenshots
-
-### Home Section
-![Home Section](https://via.placeholder.com/600x400)
-
-### Expertise Section
-![Expertise Section](https://via.placeholder.com/600x400)
+![Screenshot 1](./Screenshot/ss1.png)
+![Screenshot 2](./Screenshot/ss2.png)
+![Screenshot 3](./Screenshot/ss3.png)
+![Screenshot 4](./Screenshot/ss4.png)
 
 ---
 
